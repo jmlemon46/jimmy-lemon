@@ -12,7 +12,7 @@ excerpt: "I'm starting a blog because my therapist told me to and it's less weir
 
 Sometimes you think you know why you are doing something, but you really don't know why. 
 
-You aren't really lying to yourself. **you're just protecting yourself from the truth.**
+You aren't really lying to yourself. **You're just protecting yourself from the truth.**
 
 Last night I sat down to write this list of reasons of why i wanted to start writing in this blog. All of those reasons are _true_, but they aren't _right_. 
 
