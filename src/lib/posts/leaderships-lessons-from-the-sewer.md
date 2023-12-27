@@ -6,7 +6,7 @@ categories:
 - "other blogs"
 - "leadership"
 - "ninja turtles"
-coverImage: "/images/leonardo.jpg"
+coverImage: "/images/leadlikeleo.jpg"
 coverWidth: 
 coverHeight: 
 excerpt: Our world has no need for more leaders who just want power and authority.
