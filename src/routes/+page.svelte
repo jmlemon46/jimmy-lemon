@@ -207,6 +207,16 @@ ul.social-buttons {
     border-left:0px solid var(--black);
       }
 
+	  @media screen and (max-width:800px) {
+		.socialLinks li a {
+			font-size:.88rem;
+		}
+
+		.socialLinks img {
+		max-height: 40px;
+	  }
+	}
+
       .socialLinks li a:hover {
         border-left:8px solid var(--black);
         padding-left:12px;
