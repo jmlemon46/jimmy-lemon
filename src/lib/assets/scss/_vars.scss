@@ -43,16 +43,17 @@ $xxxlMin: 122.5rem;
 	--primaryFont:  "degular", sans-serif;
 	--codeFont: 'Fira Code', monospace;
 	// Base styles
-	font-size: .9rem;
+	font-size: 1rem;
 	line-height: 1.6;
 }
 
 body {
-	@media (min-width: $smMin) {
+	/*@media (min-width: $smMin) {
 		font-size: 1.125rem;
 	}
 
 	@media (min-width: $lgMin) {
 		font-size: 1.25rem;
-	}
+	}*/
+	font-size:clamp(1.1em,1.5vw,1.5em);
 }

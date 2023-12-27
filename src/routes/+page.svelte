@@ -39,7 +39,7 @@
 	<div class="socialLinks">
 		<img src="/images/jimmyheadshot.jpg" alt="Follow Jimmy on social media" class="headshot" />
     <h2>Connect with me.</h2>
-		<ul>
+		<ul class="social-buttons">
 			<li>
 				<a href="https://www.linkedin.com/in/jimmylemon/" target="_blank"
 					><img src="/images/linkedin@2x.png" alt="linkedIn Link" />@jimmylemon</a>
@@ -104,6 +104,16 @@
 		margin: 0 10vw;
 	}
 
+	@media screen and (max-width:1040px) {
+		section.hero h1 {
+			max-width:unset;
+		}
+		section.hero {
+			min-height:unset;
+			padding:4rem 0;
+		}
+	}
+
 	.split-section {
 		display: grid;
 		grid-template-columns: 1fr 1fr;
@@ -112,6 +122,7 @@
 	@media screen and (max-width:1040px) {
 		.split-section {
 			grid-template-columns: 1fr;
+			padding:4rem 0;
 		}
 	}
 
@@ -170,6 +181,9 @@
 		margin: 0 auto;
 		max-height: 150px;
 		border-radius: 100%;
+}
+ul.social-buttons {
+	padding-left:0px;
 }
 
   .socialLinks {
