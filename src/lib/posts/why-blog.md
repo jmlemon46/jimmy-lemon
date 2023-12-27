@@ -16,18 +16,24 @@ You aren't really lying to yourself. **You're just protecting yourself from the 
 
 Last night I sat down to write this list of reasons of why I wanted to start writing. All of those reasons were _true_, but they aren't _right_. 
 
-As I was writing, I realized the real reason I wanted to create an online place to share my thoughts. 
+**As I was writing, I realized the real reason I wanted to create an online place to share my thoughts.**
 
 ## I'm not doing super well. ##
-While life is good, I'm not doing super well. My health has taken a back seat. I've been on autopilot for much of the last couple of years. My mental health has struggled even more than my physical health. I struggle to show up as the father, husband, leader, friend, and coworker I want to be consistently. 
+While life as a whole is good, I'm not doing super well.
+- I've been on autopilot for much of the last couple of years.
+- My health has taken a back seat.
+- My mental health has struggled even more than my physical health.
+- I'm struggling to show up as the father, husband, leader, friend, and coworker I want to be consistently. 
 
-There are glimpses, but, to be honest, I'm struggling to be me. 
+There are glimpses, but, to be honest, **I'm struggling to be me.**
 
 I'm a verbal processor. I like to talk. I like to think. I like to talk about the things I'm thinking about. At any given time, there are a thousand thoughts racing through my head. And, even more challenging, there are a million emotions pumping through my heart. 
 
-I _need_ a place to wrestle with the things that are holding me back. I _need_ a place to explore the things that inspire me. I _need_ a place to create some accountability for how I want to live MY life. 
+- I _need_ a place to wrestle with the things that are holding me back.
+- I _need_ a place to explore the things that inspire me.
+- I _need_ a place to create some accountability for how I want to live MY life. 
 
-So, that's the answer. I want to write to help create a better Jimmy. A version of myself who shows up consistently, is becoming the person he wants to be, and is experiencing the type of life he wants to live.
+**So, that's the answer. I want to write to help create a better Jimmy.** A version of myself who shows up consistently, is becoming the person he wants to be, and is experiencing the type of life he wants to live.
 
 If no one else ever reads this, that's fine. If someone deos, and it helps them just a little bit...or it helps me connect with them just a little bit...then that's a win-win. 
 ___
