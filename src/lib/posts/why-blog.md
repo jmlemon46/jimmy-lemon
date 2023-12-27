@@ -8,6 +8,8 @@ coverImage: "/images/blogging.jpg"
 excerpt: "I'm starting a blog because my therapist told me to and it's less weird than talking to myself."
 ---
 
+## Why I really want to blog
+
 
 
 ## It's less weird than talking to myself

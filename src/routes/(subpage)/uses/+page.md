@@ -27,7 +27,7 @@
 ## this blog
 * Svelte + SvelteKit
 * mdsvex
-* Siteground Hosting
+* Netlify Hosting
 * Tutorial: [Josh Collinsworth](https://joshcollinsworth.com/blog/build-static-sveltekit-markdown-blog)
 
 ## things that make me happy
