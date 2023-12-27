@@ -42,8 +42,7 @@
 		<ul>
 			<li>
 				<a href="https://www.linkedin.com/in/jimmylemon/" target="_blank"
-					><img src="/images/linkedin@2x.png" alt="linkedIn Link" /><p>@jimmylemon</p></a
-				>
+					><img src="/images/linkedin@2x.png" alt="linkedIn Link" />@jimmylemon</a>
 			</li>
 			<li>
 				<a href="https://www.instagram.com/_jimmylemon/" target="_blank"
