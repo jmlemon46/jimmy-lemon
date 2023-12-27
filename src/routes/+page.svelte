@@ -109,6 +109,12 @@
 		grid-template-columns: 1fr 1fr;
 	}
 
+	@media screen and (max-width:1040px) {
+		.split-section {
+			grid-template-columns: 1fr;
+		}
+	}
+
 	.split-section > div {
 		padding: 5vw;
 	}
