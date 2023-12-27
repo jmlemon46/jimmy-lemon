@@ -28,6 +28,7 @@ I'm a verbal processor. I like to talk. I like to think. I like to talk about th
 I _need_ a place to wrestle with the things that are holding me back. I _need_ a place to explore the things that inspire me. I _need_ a place for me to share to provide myself some accountability on how I want to live MY life. 
 
 So, that's the answer. I want to write to help create a better Jimmy. One who can show up consistently and be the person he wants to be and experience the life he wants to live. If no one else ever reads this, that's fine. But, if someone does, and it helps them just a little bit or helps me connect with them just a little bit, then that's a win-win. 
+___
 
 ## My original "Why Blog?" list:
 
