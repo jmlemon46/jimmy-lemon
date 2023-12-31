@@ -33,6 +33,8 @@ The Cavs get the ball back. Less than 30 seconds to go. The good guys get a wide
 
 He misses. Giannis grabs the rebound. The comeback falls short. The storybook finish to Isaac and Ian’s (and Megan’s!) first Cavs game wasn’t meant to be. 
 
+![Defeat](/images/defeat.jpg)
+
 ## When things don’t go as planned.
 It’s kind of a fitting end to 2023. It's been a year of highs and lows for me and my family, of moments when everything seemed to align, followed by unexpected setbacks. Every time I thought things were starting to look up…
 
