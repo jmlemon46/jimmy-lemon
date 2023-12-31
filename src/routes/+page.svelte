@@ -29,7 +29,7 @@
 
 <section class="hero">
 	<h1>
-		Hey, I'm <strong>Jimmy</strong><br />
+		Hey, I'm <strong>Jimmy</strong>.<br />
 		I'm just here to <strong>talk about life, leadership</strong> and the pursuit of
 		<strong>the perfect dad joke.</strong>
 	</h1>
