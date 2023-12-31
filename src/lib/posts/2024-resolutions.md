@@ -6,10 +6,9 @@ categories:
 - "personal life"
 - "musings"
 - "goals"
-coverImage: "/images/2020reflections.jpg"
+coverImage: "/images/2024.jpg"
 excerpt: Some people look down on New Year’s Resolutions, but there's never a bad time to set goals to help you become the person you really want to become
 ---
-# New Year's Resolutions for 2024
 
 Some people look down on New Year’s Resolutions. If that’s you, keep moving on because I think that’s a silly take. There’s never a bad time to set goals to help you become the person you really want to become or live the life you really want to live. Here are a few of my resolutions for the upcoming year! 
 
