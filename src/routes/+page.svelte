@@ -74,8 +74,11 @@
 				{#each data.slice(0, 3) as item}
 					<a href="/blog/{item.slug}">
 						<li>
-							<h4>{item.title}</h4>
-							<span class="blog-date">{item.date}</span>
+							<img src="{item.coverImage}" class="home-thumb" alt="{item.excerpt}">
+							<div>
+								<h4>{item.title}</h4>
+								<span class="blog-date">{item.date}</span>
+							</div>
 						</li>
 					</a>
 				{/each}
@@ -159,11 +162,18 @@
 		transition: all 0.3s ease;
 		margin-bottom: 1rem;
 		background: #fff;
+		display:grid;
+		grid-template-columns:1fr 3fr;
+		gap: 1rem;
+	}
+
+	.latest-post img {
+		aspect-ratio: 1 / 1;
+		object-fit: cover;
 	}
 
 	.latest-post a:hover li {
-		border-left: 40px solid var(--black);
-		padding-left: 2rem;
+		border-left: 20px solid var(--black);
     cursor:pointer;
 	}
 

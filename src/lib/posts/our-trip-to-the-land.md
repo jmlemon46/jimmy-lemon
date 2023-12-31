@@ -17,6 +17,8 @@ Just as we had almost given up, the hometown Cleveland Cavs came roaring back.
 
 Down by 10 in the 4th quarter to the favored Milwaukee Bucks, my 7 year old was starting to get as frustrated as the rest of the home crowd. “They’re cheating!” He yelled. 
 
+![The Cavs Arena](/images/rocketmortgage.jpg)
+
 But, then things changed. The Rocket Mortgage Field House erupted as the Cavs started clicking and cut into the lead. With thousands of cheering fans and tons of momentum on their side, a storybook finish seemed like a foregone conclusion.
 
 As the Cavs mounted their comeback, Isaac would announce the lead. “We’re only down 8….Now it’s only 7….We can come back!”
@@ -38,11 +40,14 @@ It’s kind of a fitting end to 2023. It's been a year of highs and lows for me 
 
 I won’t go into the specifics of the personal, health, family, professional, financial, home, parental, mental, and spiritual battles the last year has brought us. I’m sure the year brought you its fair share of curveballs as well.
 
+
 ## The struggle is real, but so is the peace.
 
 A funny thing happened after the game, though. Isaac still thought it was “Uh-mazing!” Meg gushed about the overall experience. I was thrilled to have gotten to share my love of the Cavs with my boys. **Our team might not have won, but our experience was unbeatable.**
 
 2023 hasn't unfolded as I would have chosen, but I'm ending the year with an unexpected sense of peace. I'm more optimistic and motivated than I've been in a long time. And I've learned along the way that it's okay to enjoy life's journey, despite the occasional bumps in the road.
+
+![The Cavs Game](/images/cavsgame.jpg)
 
 ## On to the next…
 The Cavs will fight another day. They play again on January 1st. They even get another crack at the Bucks in a couple of weeks. 
