@@ -36,7 +36,7 @@
 
 * **Thought Process?** Verbal processor here. A million thoughts...talking it out helps me make sense of them. 
 * **Why Write?** It's my way of talking through the maze of my mind. Plus, it's less weird than talking to myself!
-* **Leadership Huntington** Proud member of the inaugrial Leadership Huntington Class with the Huntington Regional Chamber of Commerce. I've met some of the best humans through the experience. 
+* **Leadership Huntington** Proud member of the inaugural Leadership Huntington Class with the Huntington Regional Chamber of Commerce. I've met some of the best humans through the experience. 
 
 ![Leadership Huntington](/images/leadershipHuntington.jpg)
 
