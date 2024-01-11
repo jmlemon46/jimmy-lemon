@@ -78,6 +78,7 @@
 							<div>
 								<h4>{item.title}</h4>
 								<span class="blog-date">{item.date}</span>
+								<p class="excerpt">{item.excerpt}</p>
 							</div>
 						</li>
 					</a>
@@ -237,4 +238,20 @@ ul.social-buttons {
         text-align: center;
         margin-top:1rem;
       }
+
+	  .post-list a:hover .excerpt {
+		opacity:1000;
+		max-height:500px;
+	  }
+	  .excerpt {
+		font-size:1rem;
+		transition: .5s ease;
+		opacity:0;
+		max-height:0px;
+		line-height:1.2rem;
+	  }
+
+	  .blog-date {
+		font-size:1.1rem;
+	  }
 </style>

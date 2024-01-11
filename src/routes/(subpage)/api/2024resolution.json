@@ -1,0 +1,62 @@
+{
+    "backyard": {
+        "goal_number": 12,
+        "completed_number": 0
+    },
+    "reading": {
+        "goal_number": 20,
+        "completed_number": 0
+    },
+    "sports": {
+        "goal_number": "various",
+        "completed_number": 0
+    },
+    "rings": {
+        "goal_number": 225,
+        "completed_number": 0
+    },
+    "activity": {
+        "goal_number": 150,
+        "completed_number": 0
+    },
+    "sleep": {
+        "goal_number": "6-8 hours nightly",
+        "completed_number": 0
+    },
+    "loseit": {
+        "goal_number": 150,
+        "completed_number": 0
+    },
+    "masters": {
+        "goal_number": 1,
+        "completed_number": 0
+    },
+    "write": {
+        "goal_number": 50,
+        "completed_number": 0
+    },
+    "websites": {
+        "goal_number": 40,
+        "completed_number": 0
+    },
+    "project": {
+        "goal_number": 1,
+        "completed_number": 0
+    },
+    "website": {
+        "goal_number": 6,
+        "completed_number": 0
+    },
+    "game": {
+        "goal_number": 12,
+        "completed_number": 0
+    },
+    "laundry": {
+        "goal_number": "regular schedule",
+        "completed_number": 0
+    },
+    "notes": {
+        "goal_number": 52,
+        "completed_number": 0
+    }
+}

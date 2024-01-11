@@ -1,5 +1,5 @@
 ---
-title: "Another Year, Another New Me 2024"
+title: "2024 New Years Resolutions"
 date: "2023-12-31"
 updated: 
 categories: 
@@ -21,7 +21,7 @@ Some people look down on New Year’s Resolutions. If that’s you, keep moving 
    - Focus on reading 20 books throughout the year to reignite my love for reading. Twelve books seemed too few, while twenty-four felt overly ambitious. Twenty strikes a perfect balance.
 
 3. **More Sporting Events for My Boys**
-   - Attend a variety of sporting events with my boys, including Reds games, minor league baseball, Blue Jackets, Marshall at OSU, and MLS matches (Crew or FC Cincinnati), as well as as many Marshall football, basketball, baseball, soccer, and softball games as possible.e
+   - Attend a variety of sporting events with my boys, including Reds games, minor league baseball, Blue Jackets, Marshall at OSU, and MLS matches (Crew or FC Cincinnati), as well as as many Marshall football, basketball, baseball, soccer, and softball games as possible.
 ## Health and Fitness
 
 4. **Close Apple Watch Activity Rings 225 Times**
