@@ -169,7 +169,7 @@
 	}
 
 	.latest-post img {
-		aspect-ratio: 1 / 1;
+		aspect-ratio: 1 / 1.2;
 		object-fit: cover;
 	}
 
@@ -242,6 +242,10 @@ ul.social-buttons {
 	  .post-list a:hover .excerpt {
 		opacity:1000;
 		max-height:500px;
+	  }
+
+	  .post-list p {
+		margin-bottom:0px;
 	  }
 	  .excerpt {
 		font-size:1rem;
