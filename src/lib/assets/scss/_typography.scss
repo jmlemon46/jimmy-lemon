@@ -83,3 +83,17 @@ p {margin-bottom:1rem;}
 .meta {
 	margin-bottom:2rem!important;
 }
+
+blockquote {
+    background:#fff;
+    padding:1rem 2rem;
+    border-left: 10px solid var(--yellow);
+    margin-top:2rem;
+    margin-bottom:2rem;
+    font-size:1.1rem;
+}
+
+blockquote p:last-of-type {
+    margin-bottom:2px;
+}
+
