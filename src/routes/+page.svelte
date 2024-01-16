@@ -71,7 +71,7 @@
 		<h2>The latest from the blog.</h2>
 		{#if data && data.length > 0}
 			<ul class="post-list">
-				{#each data.slice(0, 3) as item}
+				{#each data.slice(0, 4) as item}
 					<a href="/blog/{item.slug}">
 						<li>
 							<img src="{item.coverImage}" class="home-thumb" alt="{item.excerpt}">
