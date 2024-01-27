@@ -15,7 +15,6 @@
     } = data.meta;
     const PostContent = data.PostContent;
     date = formatDate(date);
-    updated = formatDate(updated);
 
     
     
@@ -30,10 +29,10 @@
     <meta name="twitter:title" content={title} />
     <meta property="og:description" content={excerpt} />
     <meta name="twitter:description" content={excerpt} />
-    <meta property="og:image" content="{coverImage}" />
+    <!-- <meta property="og:image" content="https://yourdomain.com/image_path" /> -->
     <meta property="og:image:width" content={coverWidth} />
     <meta property="og:image:height" content={coverHeight} />
-   <meta name="twitter:image" content="{coverImage}" />
+    <!-- <meta name="twitter:image" content="https://yourdomain.com/image_path" /> -->
 </svelte:head>
 
 <progress id="reading-progress" max="100" value="0" ></progress>
