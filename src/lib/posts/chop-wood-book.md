@@ -23,7 +23,7 @@ Under the tutelage of his sensei, Akira, John takes a transformative journey, le
 Although "Chop Wood Carry Water" won’t win any literary awards, it had moments of inspiration and enjoyment. Here are some highlights:
 * **Accessibility**: It was a fun and quick read. Which helped me as I seek to solidify my habit of consistent reading.
 * **Inspirational Nuggets**: The book is fun of plenty of motivational insights, encouraging reflection and personal growth.
-* **Life Principles**: The emphasis on appreciating the journey and focusing only on what you can control resonated with me,.
+* **Life Principles**: The emphasis on appreciating the journey and focusing only on what you can control resonated with me.
 
 ## What I Didn’t Like about Chop Wood Carry Water
 Despite its strengths, the book does struggle:
