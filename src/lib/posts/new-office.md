@@ -10,7 +10,7 @@ coverImage: "/images/new-office-2.jpg"
 excerpt: "Moving offices was exhausting. Little things I took for granted throw me off in the new space. But, I'm looking forward to a fresh work setting."
 ---
 
-I moved offices this week.\
+I moved offices this week.  
 It was exhausting. 
 
 I found it challenging to get work done with all my professional belongings scattered throughout our office hallway for the better part of the week.
