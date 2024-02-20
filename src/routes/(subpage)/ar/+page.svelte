@@ -22,6 +22,10 @@
       font-size: 1.25em;
       color: white;
     }
+
+    body {
+      style="margin : 0px; overflow: hidden;
+    }
   </style>
 
 <svelte:head>
