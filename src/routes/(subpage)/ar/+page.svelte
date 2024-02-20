@@ -26,11 +26,10 @@
 
 <svelte:head>
     <script src="https://cdn.jsdelivr.net/gh/aframevr/aframe@1c2407b26c61958baa93967b5412487cd94b290b/dist/aframe-master.min.js"></script>
-    <script src="https://raw.githack.com/AR-js-org/AR.js/master/aframe/build/aframe-ar-nft.js"></script>
+<script src="https://raw.githack.com/AR-js-org/AR.js/master/aframe/build/aframe-ar-nft.js"></script>
         <title>AR.JS with {siteTitle}</title>
 </svelte:head>
 
-<body style="margin : 0px; overflow: hidden;">
     <!-- minimal loader shown until image descriptors are loaded -->
     <div class="arjs-loader">
       <div>Loading, please wait...</div>
@@ -52,14 +51,14 @@
   
       <a-nft
         type="nft"
-        url="https://arjs-cors-proxy.herokuapp.com/https://raw.githack.com/AR-js-org/AR.js/master/aframe/examples/image-tracking/nft/trex/trex-image/trex"
+        url="/arjs/trex/trex-image/trex"
         smooth="true"
         smoothCount="10"
         smoothTolerance=".01"
         smoothThreshold="5"
       >
         <a-entity
-          gltf-model="https://arjs-cors-proxy.herokuapp.com/https://raw.githack.com/AR-js-org/AR.js/master/aframe/examples/image-tracking/nft/trex/scene.gltf"
+          gltf-model="/arjs/trex/scene.gltf"
           scale="5 5 5"
           position="50 150 0"
         >
@@ -67,4 +66,4 @@
       </a-nft>
       <a-entity camera></a-entity>
     </a-scene>
-  </body>
+
